@@ -15,6 +15,7 @@ Welcome to my project portfolio! Below are some of the projects I've worked on, 
 | **Blog website**            | [GitHub Repo](https://github.com/Ashwin2k3/Blog-website-content-writer)      | [Live App](https://ashi-blogs121.onrender.com/) |
 | **Selenium Algo Trading Bot**| [GitHub Repo](https://github.com/Ashwin2k3/algotradingbot)                   | _Not Deployed_                                  |
 | **Mgng Website**            | [GitHub Repo](https://github.com/Ashwin2k3/mgng-website)                    | [Live App](http://mgng.in)                      |
+| **MyResume**                |[Github Repo](https://github.com/Ashwin2k3/myresume)                         | [Live App](https://ashwinresume-umfp.onrender.com/)|
 
 ---
 
