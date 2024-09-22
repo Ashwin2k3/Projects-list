@@ -73,7 +73,7 @@ Welcome to my project portfolio! Below are some of the projects I've worked on, 
 
 Feel free to reach out if you have any questions or collaboration ideas:
 
-- **LinkedIn**: [Nimish Gupta](https://linkedin.com/in/ashwin-gupta-05040a232)
+- **LinkedIn**: [Ashwin Gupta](https://linkedin.com/in/ashwin-gupta-05040a232)
 - **GitHub**: [Ashwin2k3](https://github.com/Ashwin2k3)
 - **Email**: [Ashwin.2k3@gmail.com](mailto:Ashwin.2k3@gmail.com)
 
