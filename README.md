@@ -10,6 +10,7 @@ https://ashwin2k3.github.io/Projects-list/
 | **Project Name**           | **Repository Link**                                                           | **Deployed Link**                               |
 |----------------------------|-------------------------------------------------------------------------------|-------------------------------------------------|
 | **Smartrade**               | [GitHub Repo](https://github.com/Ashwin2k3/Market-Signal-News)               | [Live App](https://smartrade.streamlit.app/)    |
+| **Option Chain**            |[Github Repo](https://github.com/Ashwin2k3/Option-chain-dashboard)           | [live App](https://nseoptionchain.streamlit.app/) |
 | **Quick News**              | [GitHub Repo](https://github.com/Ashwin2k3/Quick-News.git)                   | _Not Deployed_                                  |
 | **Web service for lawFirm** | [GitHub Repo](https://github.com/Ashwin2k3/vij-chambers)                     | [Live App](https://vijchambers.onrender.com/)   |
 | **Chat-Real-Time**          | [GitHub Repo](https://github.com/Ashwin2k3/Chat-Real-Time)                   | _Not Deployed_                                  |
@@ -17,7 +18,7 @@ https://ashwin2k3.github.io/Projects-list/
 | **Selenium Algo Trading Bot**| [GitHub Repo](https://github.com/Ashwin2k3/algotradingbot)                   | _Not Deployed_                                  |
 | **Mgng Website**            | [GitHub Repo](https://github.com/Ashwin2k3/mgng-website)                    | [Live App](http://mgng.in)                      |
 | **MyResume**                |[Github Repo](https://github.com/Ashwin2k3/myresume)                         | [Live App](https://ashwinresume-umfp.onrender.com/)|
-| **Option Chain**            |[Github Repo](https://github.com/Ashwin2k3/Option-chain-dashboard)           | [live App](https://nseoptionchain.streamlit.app/) |
+
 
 ---
 
