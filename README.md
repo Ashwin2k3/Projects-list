@@ -18,6 +18,7 @@ https://ashwin2k3.github.io/Projects-list/
 | **Selenium Algo Trading Bot**| [GitHub Repo](https://github.com/Ashwin2k3/algotradingbot)                   | _Not Deployed_                                  |
 | **Mgng Website**            | [GitHub Repo](https://github.com/Ashwin2k3/mgng-website)                    | [Live App](http://mgng.in)                      |
 | **MyResume**                |[Github Repo](https://github.com/Ashwin2k3/myresume)                         | [Live App](https://ashwinresume-umfp.onrender.com/)|
+| **landing Page Generator**  |[Github Repo](https://github.com/Ashwin2k3/automated-landing-page-builder)   | _Not Deployed_                                  |
 
 
 ---
